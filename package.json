@@ -1,0 +1,24 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "practicar asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devRony1710/asincronismo.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Rony Antolinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devRony1710/asincronismo/issues"
+  },
+  "homepage": "https://github.com/devRony1710/asincronismo#readme"
+}
