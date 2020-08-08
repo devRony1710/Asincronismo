@@ -4,7 +4,11 @@
   "description": "practicar asincronismo en JavaScript",
   "main": "src/index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "challenge": "node src/callback/challenge.js",
+    "promise": "node src/promises/index.js",
+    "promise:challenge": "node src/promises/challenge.js",
+    "async": "node src/async/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/devRony1710/asincronismo/issues"
   },
-  "homepage": "https://github.com/devRony1710/asincronismo#readme"
+  "homepage": "https://github.com/devRony1710/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
